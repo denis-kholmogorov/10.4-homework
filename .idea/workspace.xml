@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e003fc-a2ab-42ac-b438-f3790522bbff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UWIDIZJvfL1eq3FIGZXhrzNipz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Task_9/9.14 homework-maven/pom.xml" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sql1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e003fc-a2ab-42ac-b438-f3790522bbff" name="Default Changelist" comment="" />
+      <created>1575465803916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575465803916</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="350" width="562" height="690" key="#mysql-connector-java-8.0.18.jar" timestamp="1575466778940">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="0" y="350" width="562" height="690" key="#mysql-connector-java-8.0.18.jar/0.24.1680.1026@0.24.1680.1026" timestamp="1575466778940" />
+    <state x="773" y="291" width="428" height="502" key="FileChooserDialogImpl" timestamp="1575467862226">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="773" y="291" width="428" height="502" key="FileChooserDialogImpl/0.24.1680.1026@0.24.1680.1026" timestamp="1575467862226" />
+    <state width="1350" height="210" key="GridCell.Tab.0.bottom" timestamp="1575540091591">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="1632" height="210" key="GridCell.Tab.0.bottom/0.24.1680.1026@0.24.1680.1026" timestamp="1575468257740" />
+    <state width="1350" height="210" key="GridCell.Tab.0.bottom/0.38.1680.1012@0.38.1680.1012" timestamp="1575540091591" />
+    <state width="1350" height="210" key="GridCell.Tab.0.center" timestamp="1575540091590">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="1632" height="210" key="GridCell.Tab.0.center/0.24.1680.1026@0.24.1680.1026" timestamp="1575468257739" />
+    <state width="1350" height="210" key="GridCell.Tab.0.center/0.38.1680.1012@0.38.1680.1012" timestamp="1575540091590" />
+    <state width="1350" height="210" key="GridCell.Tab.0.left" timestamp="1575540091590">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="1632" height="210" key="GridCell.Tab.0.left/0.24.1680.1026@0.24.1680.1026" timestamp="1575468257739" />
+    <state width="1350" height="210" key="GridCell.Tab.0.left/0.38.1680.1012@0.38.1680.1012" timestamp="1575540091590" />
+    <state width="1350" height="210" key="GridCell.Tab.0.right" timestamp="1575540091590">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state width="1632" height="210" key="GridCell.Tab.0.right/0.24.1680.1026@0.24.1680.1026" timestamp="1575468257739" />
+    <state width="1350" height="210" key="GridCell.Tab.0.right/0.38.1680.1012@0.38.1680.1012" timestamp="1575540091590" />
+    <state x="213" y="134" width="1028" height="835" key="SettingsEditor" timestamp="1575466745884">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="213" y="134" width="1028" height="835" key="SettingsEditor/0.24.1680.1026@0.24.1680.1026" timestamp="1575466745884" />
+    <state x="525" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1575530761483">
+      <screen x="0" y="38" width="1680" height="1012" />
+    </state>
+    <state x="525" y="357" key="com.intellij.ide.util.TipDialog/0.38.1680.1012@0.38.1680.1012" timestamp="1575530761483" />
+    <state x="369" y="256" width="1243" height="582" key="new project wizard" timestamp="1575466891232">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="369" y="256" width="1243" height="582" key="new project wizard/0.24.1680.1026@0.24.1680.1026" timestamp="1575466891232" />
+  </component>
+</project>
