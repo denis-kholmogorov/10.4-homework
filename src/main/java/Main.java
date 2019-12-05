@@ -3,9 +3,7 @@ import java.sql.*;
 public class Main
 {
     public static void main(String[] args) {
-        String url ="jdbc:mysql://localhost:3306/skillbox?" +
-                "useUnicode=true&useJDBCCompliantTimezoneShift=true&" +
-                "useLegacyDatetimeCode=false&serverTimezone=UTC";
+        String url ="jdbc:mysql://localhost:3306/skillbox?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
         String user = "root";
         String pass = "23019088";
         String sql_request = "SELECT name, COUNT(MONTH(Subscriptions.subscription_date))/" +
