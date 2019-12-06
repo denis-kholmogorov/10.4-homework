@@ -6,10 +6,11 @@ public class Main
         String url ="jdbc:mysql://localhost:3306/skillbox?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
         String user = "root";
         String pass = "23019088";
-        String sql_request = "SELECT name, COUNT(MONTH(Subscriptions.subscription_date))/" +
-                "COUNT(DISTINCT MONTH(Subscriptions.subscription_date)) as avgMonth " +
-                "FROM Courses JOIN Subscriptions ON Subscriptions.course_id = Courses.id " +
-                "GROUP BY Courses.name";
+        String sql_request = "SELECT name, COUNT(MONTH(s.subscription_date))/" +
+                "(SELECT COUNT(DISTINCT MONTH(subscription_date)) " +
+                "FROM Subscriptions s JOIN Courses c ON s.course_id = c.id) as avgMonth " +
+                "FROM Courses c JOIN Subscriptions s ON s.course_id = c.id " +
+                "GROUP BY c.name;";
         try {
             Connection connection = DriverManager.getConnection(url, user, pass);
 
